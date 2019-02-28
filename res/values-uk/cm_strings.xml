@@ -48,9 +48,4 @@
     <!-- Setting title for accessing the cLock widget settings -->
     <string name="menu_item_widget_settings">Налаштування віджетів</string>
 
-    <!-- Notification channels -->
-    <string name="channel_default">Інші</string>
-    <string name="channel_expired_events">Важливі сигнали і таймери</string>
-    <string name="channel_important">Важливі сповіщення</string>
-
 </resources>
